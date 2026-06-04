@@ -1,6 +1,6 @@
 cask "onggi" do
   version "0.1.0-alpha.1"
-  sha256 "13ddd054bb74f8defa73fc021365a24c7c372ec59935124d9b7c0bacbccc7502"
+  sha256 "ac00508a1cd71ea645ecb6136428a76207188a3af973ba41641b98af14328fff"
 
   url "https://github.com/sososogoa/homebrew-onggi/releases/download/v#{version}/Onggi-#{version}.zip"
   name "Onggi"
