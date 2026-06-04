@@ -22,9 +22,11 @@ brew upgrade --cask onggi
 - App: `Onggi.app`
 - Display name: `옹기`
 - Bundle identifier: `dev.khs.onggi`
-- Release URL: `https://github.com/sososogoa/Onggi/releases/download/v0.1.0-alpha.1/Onggi-0.1.0-alpha.1.zip`
+- Release URL: `https://github.com/sososogoa/homebrew-onggi/releases/download/v0.1.0-alpha.1/Onggi-0.1.0-alpha.1.zip`
 
 The release asset must be uploaded before this cask can install successfully.
+
+The Homebrew tap and release artifact are public so Homebrew can download the app archive. The application source repository may remain private.
 
 User data is stored under `~/Library/Application Support/Onggi` and is not removed by `brew uninstall --cask onggi`.
 

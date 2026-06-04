@@ -2,11 +2,11 @@ cask "onggi" do
   version "0.1.0-alpha.1"
   sha256 "13ddd054bb74f8defa73fc021365a24c7c372ec59935124d9b7c0bacbccc7502"
 
-  url "https://github.com/sososogoa/Onggi/releases/download/v#{version}/Onggi-#{version}.zip"
+  url "https://github.com/sososogoa/homebrew-onggi/releases/download/v#{version}/Onggi-#{version}.zip"
   name "Onggi"
   name "옹기"
   desc "Korean launcher for Windows Steam games on Apple Silicon Macs"
-  homepage "https://github.com/sososogoa/Onggi"
+  homepage "https://github.com/sososogoa/homebrew-onggi"
 
   livecheck do
     url :homepage
